@@ -1,0 +1,21 @@
+/*
+	Comment
+*/
+
+a { /* Comment */ color: /* Comment */ Red; }
+
+h1{
+	font-size: 24px;
+	color: #38B2AC;
+	text-align: left;
+}
+h2{
+	font-size: 21px;
+	color: #5A67D8;
+	text-align: left;
+}
+p{
+	font-size: 18px;
+	color: black;
+	text-align: left;
+}
